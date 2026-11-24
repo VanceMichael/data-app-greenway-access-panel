@@ -1,0 +1,222 @@
+{
+  "format_version": 1,
+  "synthetic": true,
+  "tables": {
+    "entrances": {
+      "description": "入口属性含有效区间；宽度厘米",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "入口"
+        },
+        "width_cm": {
+          "type": "number",
+          "description": "净宽"
+        },
+        "steps": {
+          "type": "integer",
+          "description": "台阶数"
+        },
+        "lit": {
+          "type": "boolean",
+          "description": "照明"
+        },
+        "start": {
+          "type": "string",
+          "description": "有效开始"
+        },
+        "end": {
+          "type": "string",
+          "description": "有效结束"
+        }
+      },
+      "refs": {}
+    },
+    "panels": {
+      "description": "匿名小组；同意范围可能缩小",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "小组"
+        },
+        "mode": {
+          "type": "string",
+          "description": "方式"
+        },
+        "weight": {
+          "type": "number",
+          "description": "抽样权重"
+        },
+        "habit": {
+          "type": "string",
+          "description": "原使用频率"
+        },
+        "consent": {
+          "type": "string",
+          "description": "内部及公开或仅内部"
+        },
+        "withdrawn": {
+          "type": "string",
+          "description": "停止后续日期或空"
+        }
+      },
+      "refs": {}
+    },
+    "journeys": {
+      "description": "无出行与未报告分开；时长为分钟",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "出行记录"
+        },
+        "group": {
+          "type": "string",
+          "description": "小组"
+        },
+        "day": {
+          "type": "string",
+          "description": "出行日"
+        },
+        "origin": {
+          "type": "string",
+          "description": "起点区"
+        },
+        "destination": {
+          "type": "string",
+          "description": "终点区"
+        },
+        "entrances": {
+          "type": "array",
+          "description": "实际入口"
+        },
+        "minutes": {
+          "type": "number",
+          "description": "记录分钟"
+        },
+        "state": {
+          "type": "string",
+          "description": "完成或放弃或未出行或未报告"
+        },
+        "reason": {
+          "type": "string",
+          "description": "原因"
+        }
+      },
+      "refs": {
+        "group": "panels.id"
+      }
+    },
+    "counter_windows": {
+      "description": "入口分时计数不是独立受访者数量",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "窗口"
+        },
+        "entrance": {
+          "type": "string",
+          "description": "入口"
+        },
+        "day": {
+          "type": "string",
+          "description": "日"
+        },
+        "slot": {
+          "type": "string",
+          "description": "时段"
+        },
+        "count": {
+          "type": "integer",
+          "description": "计数"
+        },
+        "online": {
+          "type": "boolean",
+          "description": "设备在线"
+        }
+      },
+      "refs": {
+        "entrance": "entrances.id"
+      }
+    },
+    "reviews": {
+      "description": "现场复查对开放或出行事实提出更正",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "复查"
+        },
+        "target": {
+          "type": "string",
+          "description": "目标"
+        },
+        "kind": {
+          "type": "string",
+          "description": "对象类别"
+        },
+        "finding": {
+          "type": "string",
+          "description": "核实事实"
+        },
+        "known": {
+          "type": "string",
+          "description": "获知日"
+        }
+      },
+      "refs": {}
+    },
+    "assessments": {
+      "description": "已有公布范围属于真实管理承诺",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "管理决定"
+        },
+        "entrance": {
+          "type": "string",
+          "description": "入口"
+        },
+        "state": {
+          "type": "string",
+          "description": "已公布或备选"
+        },
+        "promise": {
+          "type": "string",
+          "description": "承诺"
+        },
+        "effective": {
+          "type": "string",
+          "description": "生效日"
+        }
+      },
+      "refs": {
+        "entrance": "entrances.id"
+      }
+    },
+    "rules": {
+      "description": "演练调查与通行约定",
+      "columns": {
+        "id": {
+          "type": "string",
+          "description": "配置"
+        },
+        "wheelchair_width_cm": {
+          "type": "number",
+          "description": "轮椅最低净宽"
+        },
+        "stroller_width_cm": {
+          "type": "number",
+          "description": "童车最低净宽"
+        },
+        "public_min_groups": {
+          "type": "integer",
+          "description": "公开最小独立小组数"
+        },
+        "max_completion_drop": {
+          "type": "number",
+          "description": "完成比例保护界限"
+        }
+      },
+      "refs": {}
+    }
+  }
+}

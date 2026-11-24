@@ -1,0 +1,1250 @@
+[
+  {
+    "id": "j0",
+    "group": "g0",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 12,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j1",
+    "group": "g1",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 13,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j2",
+    "group": "g2",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 14,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j3",
+    "group": "g3",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 15,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j4",
+    "group": "g4",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 16,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j5",
+    "group": "g5",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 17,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j6",
+    "group": "g6",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 18,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j7",
+    "group": "g7",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 19,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j8",
+    "group": "g8",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 12,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j9",
+    "group": "g9",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 13,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j10",
+    "group": "g10",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 14,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j11",
+    "group": "g11",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 15,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j12",
+    "group": "g12",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 16,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j13",
+    "group": "g13",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 17,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j14",
+    "group": "g14",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 18,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j15",
+    "group": "g15",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 19,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j16",
+    "group": "g16",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 12,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j17",
+    "group": "g17",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 13,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j18",
+    "group": "g18",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 14,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j19",
+    "group": "g19",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 15,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j20",
+    "group": "g20",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 16,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j21",
+    "group": "g21",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 17,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j22",
+    "group": "g22",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 18,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j23",
+    "group": "g23",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 19,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j24",
+    "group": "g0",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 12,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j25",
+    "group": "g1",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 13,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j26",
+    "group": "g2",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 14,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j27",
+    "group": "g3",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 15,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j28",
+    "group": "g4",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 16,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j29",
+    "group": "g5",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 17,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j30",
+    "group": "g6",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 18,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j31",
+    "group": "g7",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 19,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j32",
+    "group": "g8",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 12,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j33",
+    "group": "g9",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 13,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j34",
+    "group": "g10",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 14,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j35",
+    "group": "g11",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 15,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j36",
+    "group": "g12",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 16,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j37",
+    "group": "g13",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 17,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j38",
+    "group": "g14",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 18,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j39",
+    "group": "g15",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 19,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j40",
+    "group": "g16",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 12,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j41",
+    "group": "g17",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 13,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j42",
+    "group": "g18",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 14,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j43",
+    "group": "g19",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 15,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j44",
+    "group": "g20",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 16,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j45",
+    "group": "g21",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 17,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j46",
+    "group": "g22",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 18,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j47",
+    "group": "g23",
+    "day": "2026-10-05",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e1"
+    ],
+    "minutes": 19,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j48",
+    "group": "g0",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 12,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j49",
+    "group": "g1",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 13,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j50",
+    "group": "g2",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 14,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j51",
+    "group": "g3",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 15,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j52",
+    "group": "g4",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 16,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j53",
+    "group": "g5",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 17,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j54",
+    "group": "g6",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 18,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j55",
+    "group": "g7",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 19,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j56",
+    "group": "g8",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 12,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j57",
+    "group": "g9",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 13,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j58",
+    "group": "g10",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 14,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j59",
+    "group": "g11",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 15,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j60",
+    "group": "g12",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 16,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j61",
+    "group": "g13",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 17,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j62",
+    "group": "g14",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 18,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j63",
+    "group": "g15",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 19,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j64",
+    "group": "g16",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 12,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j65",
+    "group": "g17",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 13,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j66",
+    "group": "g18",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 14,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j67",
+    "group": "g19",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 15,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j68",
+    "group": "g20",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 16,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j69",
+    "group": "g21",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 17,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j70",
+    "group": "g22",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 18,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j71",
+    "group": "g23",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 19,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j72",
+    "group": "g0",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 12,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j73",
+    "group": "g1",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 13,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j74",
+    "group": "g2",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 14,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j75",
+    "group": "g3",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 15,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j76",
+    "group": "g4",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 16,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j77",
+    "group": "g5",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 17,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j78",
+    "group": "g6",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 18,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j79",
+    "group": "g7",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 19,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j80",
+    "group": "g8",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 12,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j81",
+    "group": "g9",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 13,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j82",
+    "group": "g10",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 14,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j83",
+    "group": "g11",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 15,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j84",
+    "group": "g12",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 16,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j85",
+    "group": "g13",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 17,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j86",
+    "group": "g14",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 18,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j87",
+    "group": "g15",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 19,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j88",
+    "group": "g16",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 12,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j89",
+    "group": "g17",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 13,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j90",
+    "group": "g18",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 14,
+    "state": "完成",
+    "reason": "无"
+  },
+  {
+    "id": "j91",
+    "group": "g19",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 15,
+    "state": "完成",
+    "reason": "入口窄"
+  },
+  {
+    "id": "j92",
+    "group": "g20",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 16,
+    "state": "放弃",
+    "reason": "绕路"
+  },
+  {
+    "id": "j93",
+    "group": "g21",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e2"
+    ],
+    "minutes": 17,
+    "state": "未出行",
+    "reason": "无"
+  },
+  {
+    "id": "j94",
+    "group": "g22",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 18,
+    "state": "未报告",
+    "reason": "退出调查"
+  },
+  {
+    "id": "j95",
+    "group": "g23",
+    "day": "2026-10-20",
+    "origin": "西区",
+    "destination": "东区",
+    "entrances": [
+      "e3"
+    ],
+    "minutes": 19,
+    "state": "完成",
+    "reason": "无"
+  }
+]

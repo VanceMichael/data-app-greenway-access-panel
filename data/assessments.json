@@ -1,0 +1,16 @@
+[
+  {
+    "id": "a1",
+    "entrance": "e2",
+    "state": "已公布",
+    "promise": "轮椅可在开放期绕行",
+    "effective": "2026-10-20"
+  },
+  {
+    "id": "a2",
+    "entrance": "e1",
+    "state": "备选",
+    "promise": "保留阻车设施",
+    "effective": "2026-10-28"
+  }
+]

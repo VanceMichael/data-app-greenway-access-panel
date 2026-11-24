@@ -1,0 +1,194 @@
+[
+  {
+    "id": "g0",
+    "mode": "轮椅",
+    "weight": 1,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g1",
+    "mode": "童车",
+    "weight": 2,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g2",
+    "mode": "步行",
+    "weight": 3,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g3",
+    "mode": "自行车",
+    "weight": 1,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g4",
+    "mode": "轮椅",
+    "weight": 2,
+    "habit": "每日",
+    "consent": "仅内部",
+    "withdrawn": ""
+  },
+  {
+    "id": "g5",
+    "mode": "童车",
+    "weight": 3,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": "2026-10-26"
+  },
+  {
+    "id": "g6",
+    "mode": "步行",
+    "weight": 1,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g7",
+    "mode": "自行车",
+    "weight": 2,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g8",
+    "mode": "轮椅",
+    "weight": 3,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g9",
+    "mode": "童车",
+    "weight": 1,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g10",
+    "mode": "步行",
+    "weight": 2,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g11",
+    "mode": "自行车",
+    "weight": 3,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g12",
+    "mode": "轮椅",
+    "weight": 1,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g13",
+    "mode": "童车",
+    "weight": 2,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g14",
+    "mode": "步行",
+    "weight": 3,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g15",
+    "mode": "自行车",
+    "weight": 1,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g16",
+    "mode": "轮椅",
+    "weight": 2,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g17",
+    "mode": "童车",
+    "weight": 3,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g18",
+    "mode": "步行",
+    "weight": 1,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g19",
+    "mode": "自行车",
+    "weight": 2,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g20",
+    "mode": "轮椅",
+    "weight": 3,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g21",
+    "mode": "童车",
+    "weight": 1,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g22",
+    "mode": "步行",
+    "weight": 2,
+    "habit": "每日",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  },
+  {
+    "id": "g23",
+    "mode": "自行车",
+    "weight": 3,
+    "habit": "每周",
+    "consent": "内部及公开",
+    "withdrawn": ""
+  }
+]

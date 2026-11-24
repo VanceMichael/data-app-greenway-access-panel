@@ -1,0 +1,9 @@
+[
+  {
+    "id": "r1",
+    "wheelchair_width_cm": 90,
+    "stroller_width_cm": 80,
+    "public_min_groups": 5,
+    "max_completion_drop": 0.05
+  }
+]

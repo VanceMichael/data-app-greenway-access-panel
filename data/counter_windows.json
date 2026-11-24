@@ -1,0 +1,962 @@
+[
+  {
+    "id": "c0",
+    "entrance": "e1",
+    "day": "2026-10-05",
+    "slot": "晚间",
+    "count": 40,
+    "online": false
+  },
+  {
+    "id": "c1",
+    "entrance": "e2",
+    "day": "2026-10-05",
+    "slot": "早间",
+    "count": 41,
+    "online": true
+  },
+  {
+    "id": "c2",
+    "entrance": "e3",
+    "day": "2026-10-05",
+    "slot": "晚间",
+    "count": 42,
+    "online": true
+  },
+  {
+    "id": "c3",
+    "entrance": "e1",
+    "day": "2026-10-05",
+    "slot": "早间",
+    "count": 43,
+    "online": true
+  },
+  {
+    "id": "c4",
+    "entrance": "e2",
+    "day": "2026-10-05",
+    "slot": "晚间",
+    "count": 44,
+    "online": true
+  },
+  {
+    "id": "c5",
+    "entrance": "e3",
+    "day": "2026-10-05",
+    "slot": "早间",
+    "count": 45,
+    "online": true
+  },
+  {
+    "id": "c6",
+    "entrance": "e1",
+    "day": "2026-10-05",
+    "slot": "晚间",
+    "count": 46,
+    "online": true
+  },
+  {
+    "id": "c7",
+    "entrance": "e2",
+    "day": "2026-10-05",
+    "slot": "早间",
+    "count": 47,
+    "online": true
+  },
+  {
+    "id": "c8",
+    "entrance": "e3",
+    "day": "2026-10-05",
+    "slot": "晚间",
+    "count": 48,
+    "online": true
+  },
+  {
+    "id": "c9",
+    "entrance": "e1",
+    "day": "2026-10-05",
+    "slot": "早间",
+    "count": 49,
+    "online": true
+  },
+  {
+    "id": "c10",
+    "entrance": "e2",
+    "day": "2026-10-05",
+    "slot": "晚间",
+    "count": 50,
+    "online": true
+  },
+  {
+    "id": "c11",
+    "entrance": "e3",
+    "day": "2026-10-05",
+    "slot": "早间",
+    "count": 51,
+    "online": true
+  },
+  {
+    "id": "c12",
+    "entrance": "e1",
+    "day": "2026-10-06",
+    "slot": "晚间",
+    "count": 52,
+    "online": true
+  },
+  {
+    "id": "c13",
+    "entrance": "e2",
+    "day": "2026-10-06",
+    "slot": "早间",
+    "count": 53,
+    "online": false
+  },
+  {
+    "id": "c14",
+    "entrance": "e3",
+    "day": "2026-10-06",
+    "slot": "晚间",
+    "count": 54,
+    "online": true
+  },
+  {
+    "id": "c15",
+    "entrance": "e1",
+    "day": "2026-10-06",
+    "slot": "早间",
+    "count": 55,
+    "online": true
+  },
+  {
+    "id": "c16",
+    "entrance": "e2",
+    "day": "2026-10-06",
+    "slot": "晚间",
+    "count": 56,
+    "online": true
+  },
+  {
+    "id": "c17",
+    "entrance": "e3",
+    "day": "2026-10-06",
+    "slot": "早间",
+    "count": 40,
+    "online": true
+  },
+  {
+    "id": "c18",
+    "entrance": "e1",
+    "day": "2026-10-06",
+    "slot": "晚间",
+    "count": 41,
+    "online": true
+  },
+  {
+    "id": "c19",
+    "entrance": "e2",
+    "day": "2026-10-06",
+    "slot": "早间",
+    "count": 42,
+    "online": true
+  },
+  {
+    "id": "c20",
+    "entrance": "e3",
+    "day": "2026-10-06",
+    "slot": "晚间",
+    "count": 43,
+    "online": true
+  },
+  {
+    "id": "c21",
+    "entrance": "e1",
+    "day": "2026-10-06",
+    "slot": "早间",
+    "count": 44,
+    "online": true
+  },
+  {
+    "id": "c22",
+    "entrance": "e2",
+    "day": "2026-10-06",
+    "slot": "晚间",
+    "count": 45,
+    "online": true
+  },
+  {
+    "id": "c23",
+    "entrance": "e3",
+    "day": "2026-10-06",
+    "slot": "早间",
+    "count": 46,
+    "online": true
+  },
+  {
+    "id": "c24",
+    "entrance": "e1",
+    "day": "2026-10-07",
+    "slot": "晚间",
+    "count": 47,
+    "online": true
+  },
+  {
+    "id": "c25",
+    "entrance": "e2",
+    "day": "2026-10-07",
+    "slot": "早间",
+    "count": 48,
+    "online": true
+  },
+  {
+    "id": "c26",
+    "entrance": "e3",
+    "day": "2026-10-07",
+    "slot": "晚间",
+    "count": 49,
+    "online": false
+  },
+  {
+    "id": "c27",
+    "entrance": "e1",
+    "day": "2026-10-07",
+    "slot": "早间",
+    "count": 50,
+    "online": true
+  },
+  {
+    "id": "c28",
+    "entrance": "e2",
+    "day": "2026-10-07",
+    "slot": "晚间",
+    "count": 51,
+    "online": true
+  },
+  {
+    "id": "c29",
+    "entrance": "e3",
+    "day": "2026-10-07",
+    "slot": "早间",
+    "count": 52,
+    "online": true
+  },
+  {
+    "id": "c30",
+    "entrance": "e1",
+    "day": "2026-10-07",
+    "slot": "晚间",
+    "count": 53,
+    "online": true
+  },
+  {
+    "id": "c31",
+    "entrance": "e2",
+    "day": "2026-10-07",
+    "slot": "早间",
+    "count": 54,
+    "online": true
+  },
+  {
+    "id": "c32",
+    "entrance": "e3",
+    "day": "2026-10-07",
+    "slot": "晚间",
+    "count": 55,
+    "online": true
+  },
+  {
+    "id": "c33",
+    "entrance": "e1",
+    "day": "2026-10-07",
+    "slot": "早间",
+    "count": 56,
+    "online": true
+  },
+  {
+    "id": "c34",
+    "entrance": "e2",
+    "day": "2026-10-07",
+    "slot": "晚间",
+    "count": 40,
+    "online": true
+  },
+  {
+    "id": "c35",
+    "entrance": "e3",
+    "day": "2026-10-07",
+    "slot": "早间",
+    "count": 41,
+    "online": true
+  },
+  {
+    "id": "c36",
+    "entrance": "e1",
+    "day": "2026-10-08",
+    "slot": "晚间",
+    "count": 42,
+    "online": true
+  },
+  {
+    "id": "c37",
+    "entrance": "e2",
+    "day": "2026-10-08",
+    "slot": "早间",
+    "count": 43,
+    "online": true
+  },
+  {
+    "id": "c38",
+    "entrance": "e3",
+    "day": "2026-10-08",
+    "slot": "晚间",
+    "count": 44,
+    "online": true
+  },
+  {
+    "id": "c39",
+    "entrance": "e1",
+    "day": "2026-10-08",
+    "slot": "早间",
+    "count": 45,
+    "online": false
+  },
+  {
+    "id": "c40",
+    "entrance": "e2",
+    "day": "2026-10-08",
+    "slot": "晚间",
+    "count": 46,
+    "online": true
+  },
+  {
+    "id": "c41",
+    "entrance": "e3",
+    "day": "2026-10-08",
+    "slot": "早间",
+    "count": 47,
+    "online": true
+  },
+  {
+    "id": "c42",
+    "entrance": "e1",
+    "day": "2026-10-08",
+    "slot": "晚间",
+    "count": 48,
+    "online": true
+  },
+  {
+    "id": "c43",
+    "entrance": "e2",
+    "day": "2026-10-08",
+    "slot": "早间",
+    "count": 49,
+    "online": true
+  },
+  {
+    "id": "c44",
+    "entrance": "e3",
+    "day": "2026-10-08",
+    "slot": "晚间",
+    "count": 50,
+    "online": true
+  },
+  {
+    "id": "c45",
+    "entrance": "e1",
+    "day": "2026-10-08",
+    "slot": "早间",
+    "count": 51,
+    "online": true
+  },
+  {
+    "id": "c46",
+    "entrance": "e2",
+    "day": "2026-10-08",
+    "slot": "晚间",
+    "count": 52,
+    "online": true
+  },
+  {
+    "id": "c47",
+    "entrance": "e3",
+    "day": "2026-10-08",
+    "slot": "早间",
+    "count": 53,
+    "online": true
+  },
+  {
+    "id": "c48",
+    "entrance": "e1",
+    "day": "2026-10-09",
+    "slot": "晚间",
+    "count": 54,
+    "online": true
+  },
+  {
+    "id": "c49",
+    "entrance": "e2",
+    "day": "2026-10-09",
+    "slot": "早间",
+    "count": 55,
+    "online": true
+  },
+  {
+    "id": "c50",
+    "entrance": "e3",
+    "day": "2026-10-09",
+    "slot": "晚间",
+    "count": 56,
+    "online": true
+  },
+  {
+    "id": "c51",
+    "entrance": "e1",
+    "day": "2026-10-09",
+    "slot": "早间",
+    "count": 40,
+    "online": true
+  },
+  {
+    "id": "c52",
+    "entrance": "e2",
+    "day": "2026-10-09",
+    "slot": "晚间",
+    "count": 41,
+    "online": false
+  },
+  {
+    "id": "c53",
+    "entrance": "e3",
+    "day": "2026-10-09",
+    "slot": "早间",
+    "count": 42,
+    "online": true
+  },
+  {
+    "id": "c54",
+    "entrance": "e1",
+    "day": "2026-10-09",
+    "slot": "晚间",
+    "count": 43,
+    "online": true
+  },
+  {
+    "id": "c55",
+    "entrance": "e2",
+    "day": "2026-10-09",
+    "slot": "早间",
+    "count": 44,
+    "online": true
+  },
+  {
+    "id": "c56",
+    "entrance": "e3",
+    "day": "2026-10-09",
+    "slot": "晚间",
+    "count": 45,
+    "online": true
+  },
+  {
+    "id": "c57",
+    "entrance": "e1",
+    "day": "2026-10-09",
+    "slot": "早间",
+    "count": 46,
+    "online": true
+  },
+  {
+    "id": "c58",
+    "entrance": "e2",
+    "day": "2026-10-09",
+    "slot": "晚间",
+    "count": 47,
+    "online": true
+  },
+  {
+    "id": "c59",
+    "entrance": "e3",
+    "day": "2026-10-09",
+    "slot": "早间",
+    "count": 48,
+    "online": true
+  },
+  {
+    "id": "c60",
+    "entrance": "e1",
+    "day": "2026-10-10",
+    "slot": "晚间",
+    "count": 49,
+    "online": true
+  },
+  {
+    "id": "c61",
+    "entrance": "e2",
+    "day": "2026-10-10",
+    "slot": "早间",
+    "count": 50,
+    "online": true
+  },
+  {
+    "id": "c62",
+    "entrance": "e3",
+    "day": "2026-10-10",
+    "slot": "晚间",
+    "count": 51,
+    "online": true
+  },
+  {
+    "id": "c63",
+    "entrance": "e1",
+    "day": "2026-10-10",
+    "slot": "早间",
+    "count": 52,
+    "online": true
+  },
+  {
+    "id": "c64",
+    "entrance": "e2",
+    "day": "2026-10-10",
+    "slot": "晚间",
+    "count": 53,
+    "online": true
+  },
+  {
+    "id": "c65",
+    "entrance": "e3",
+    "day": "2026-10-10",
+    "slot": "早间",
+    "count": 54,
+    "online": false
+  },
+  {
+    "id": "c66",
+    "entrance": "e1",
+    "day": "2026-10-10",
+    "slot": "晚间",
+    "count": 55,
+    "online": true
+  },
+  {
+    "id": "c67",
+    "entrance": "e2",
+    "day": "2026-10-10",
+    "slot": "早间",
+    "count": 56,
+    "online": true
+  },
+  {
+    "id": "c68",
+    "entrance": "e3",
+    "day": "2026-10-10",
+    "slot": "晚间",
+    "count": 40,
+    "online": true
+  },
+  {
+    "id": "c69",
+    "entrance": "e1",
+    "day": "2026-10-10",
+    "slot": "早间",
+    "count": 41,
+    "online": true
+  },
+  {
+    "id": "c70",
+    "entrance": "e2",
+    "day": "2026-10-10",
+    "slot": "晚间",
+    "count": 42,
+    "online": true
+  },
+  {
+    "id": "c71",
+    "entrance": "e3",
+    "day": "2026-10-10",
+    "slot": "早间",
+    "count": 43,
+    "online": true
+  },
+  {
+    "id": "c72",
+    "entrance": "e1",
+    "day": "2026-10-11",
+    "slot": "晚间",
+    "count": 44,
+    "online": true
+  },
+  {
+    "id": "c73",
+    "entrance": "e2",
+    "day": "2026-10-11",
+    "slot": "早间",
+    "count": 45,
+    "online": true
+  },
+  {
+    "id": "c74",
+    "entrance": "e3",
+    "day": "2026-10-11",
+    "slot": "晚间",
+    "count": 46,
+    "online": true
+  },
+  {
+    "id": "c75",
+    "entrance": "e1",
+    "day": "2026-10-11",
+    "slot": "早间",
+    "count": 47,
+    "online": true
+  },
+  {
+    "id": "c76",
+    "entrance": "e2",
+    "day": "2026-10-11",
+    "slot": "晚间",
+    "count": 48,
+    "online": true
+  },
+  {
+    "id": "c77",
+    "entrance": "e3",
+    "day": "2026-10-11",
+    "slot": "早间",
+    "count": 49,
+    "online": true
+  },
+  {
+    "id": "c78",
+    "entrance": "e1",
+    "day": "2026-10-11",
+    "slot": "晚间",
+    "count": 50,
+    "online": false
+  },
+  {
+    "id": "c79",
+    "entrance": "e2",
+    "day": "2026-10-11",
+    "slot": "早间",
+    "count": 51,
+    "online": true
+  },
+  {
+    "id": "c80",
+    "entrance": "e3",
+    "day": "2026-10-11",
+    "slot": "晚间",
+    "count": 52,
+    "online": true
+  },
+  {
+    "id": "c81",
+    "entrance": "e1",
+    "day": "2026-10-11",
+    "slot": "早间",
+    "count": 53,
+    "online": true
+  },
+  {
+    "id": "c82",
+    "entrance": "e2",
+    "day": "2026-10-11",
+    "slot": "晚间",
+    "count": 54,
+    "online": true
+  },
+  {
+    "id": "c83",
+    "entrance": "e3",
+    "day": "2026-10-11",
+    "slot": "早间",
+    "count": 55,
+    "online": true
+  },
+  {
+    "id": "c84",
+    "entrance": "e1",
+    "day": "2026-10-12",
+    "slot": "晚间",
+    "count": 56,
+    "online": true
+  },
+  {
+    "id": "c85",
+    "entrance": "e2",
+    "day": "2026-10-12",
+    "slot": "早间",
+    "count": 40,
+    "online": true
+  },
+  {
+    "id": "c86",
+    "entrance": "e3",
+    "day": "2026-10-12",
+    "slot": "晚间",
+    "count": 41,
+    "online": true
+  },
+  {
+    "id": "c87",
+    "entrance": "e1",
+    "day": "2026-10-12",
+    "slot": "早间",
+    "count": 42,
+    "online": true
+  },
+  {
+    "id": "c88",
+    "entrance": "e2",
+    "day": "2026-10-12",
+    "slot": "晚间",
+    "count": 43,
+    "online": true
+  },
+  {
+    "id": "c89",
+    "entrance": "e3",
+    "day": "2026-10-12",
+    "slot": "早间",
+    "count": 44,
+    "online": true
+  },
+  {
+    "id": "c90",
+    "entrance": "e1",
+    "day": "2026-10-12",
+    "slot": "晚间",
+    "count": 45,
+    "online": true
+  },
+  {
+    "id": "c91",
+    "entrance": "e2",
+    "day": "2026-10-12",
+    "slot": "早间",
+    "count": 46,
+    "online": false
+  },
+  {
+    "id": "c92",
+    "entrance": "e3",
+    "day": "2026-10-12",
+    "slot": "晚间",
+    "count": 47,
+    "online": true
+  },
+  {
+    "id": "c93",
+    "entrance": "e1",
+    "day": "2026-10-12",
+    "slot": "早间",
+    "count": 48,
+    "online": true
+  },
+  {
+    "id": "c94",
+    "entrance": "e2",
+    "day": "2026-10-12",
+    "slot": "晚间",
+    "count": 49,
+    "online": true
+  },
+  {
+    "id": "c95",
+    "entrance": "e3",
+    "day": "2026-10-12",
+    "slot": "早间",
+    "count": 50,
+    "online": true
+  },
+  {
+    "id": "c96",
+    "entrance": "e1",
+    "day": "2026-10-13",
+    "slot": "晚间",
+    "count": 51,
+    "online": true
+  },
+  {
+    "id": "c97",
+    "entrance": "e2",
+    "day": "2026-10-13",
+    "slot": "早间",
+    "count": 52,
+    "online": true
+  },
+  {
+    "id": "c98",
+    "entrance": "e3",
+    "day": "2026-10-13",
+    "slot": "晚间",
+    "count": 53,
+    "online": true
+  },
+  {
+    "id": "c99",
+    "entrance": "e1",
+    "day": "2026-10-13",
+    "slot": "早间",
+    "count": 54,
+    "online": true
+  },
+  {
+    "id": "c100",
+    "entrance": "e2",
+    "day": "2026-10-13",
+    "slot": "晚间",
+    "count": 55,
+    "online": true
+  },
+  {
+    "id": "c101",
+    "entrance": "e3",
+    "day": "2026-10-13",
+    "slot": "早间",
+    "count": 56,
+    "online": true
+  },
+  {
+    "id": "c102",
+    "entrance": "e1",
+    "day": "2026-10-13",
+    "slot": "晚间",
+    "count": 40,
+    "online": true
+  },
+  {
+    "id": "c103",
+    "entrance": "e2",
+    "day": "2026-10-13",
+    "slot": "早间",
+    "count": 41,
+    "online": true
+  },
+  {
+    "id": "c104",
+    "entrance": "e3",
+    "day": "2026-10-13",
+    "slot": "晚间",
+    "count": 42,
+    "online": false
+  },
+  {
+    "id": "c105",
+    "entrance": "e1",
+    "day": "2026-10-13",
+    "slot": "早间",
+    "count": 43,
+    "online": true
+  },
+  {
+    "id": "c106",
+    "entrance": "e2",
+    "day": "2026-10-13",
+    "slot": "晚间",
+    "count": 44,
+    "online": true
+  },
+  {
+    "id": "c107",
+    "entrance": "e3",
+    "day": "2026-10-13",
+    "slot": "早间",
+    "count": 45,
+    "online": true
+  },
+  {
+    "id": "c108",
+    "entrance": "e1",
+    "day": "2026-10-14",
+    "slot": "晚间",
+    "count": 46,
+    "online": true
+  },
+  {
+    "id": "c109",
+    "entrance": "e2",
+    "day": "2026-10-14",
+    "slot": "早间",
+    "count": 47,
+    "online": true
+  },
+  {
+    "id": "c110",
+    "entrance": "e3",
+    "day": "2026-10-14",
+    "slot": "晚间",
+    "count": 48,
+    "online": true
+  },
+  {
+    "id": "c111",
+    "entrance": "e1",
+    "day": "2026-10-14",
+    "slot": "早间",
+    "count": 49,
+    "online": true
+  },
+  {
+    "id": "c112",
+    "entrance": "e2",
+    "day": "2026-10-14",
+    "slot": "晚间",
+    "count": 50,
+    "online": true
+  },
+  {
+    "id": "c113",
+    "entrance": "e3",
+    "day": "2026-10-14",
+    "slot": "早间",
+    "count": 51,
+    "online": true
+  },
+  {
+    "id": "c114",
+    "entrance": "e1",
+    "day": "2026-10-14",
+    "slot": "晚间",
+    "count": 52,
+    "online": true
+  },
+  {
+    "id": "c115",
+    "entrance": "e2",
+    "day": "2026-10-14",
+    "slot": "早间",
+    "count": 53,
+    "online": true
+  },
+  {
+    "id": "c116",
+    "entrance": "e3",
+    "day": "2026-10-14",
+    "slot": "晚间",
+    "count": 54,
+    "online": true
+  },
+  {
+    "id": "c117",
+    "entrance": "e1",
+    "day": "2026-10-14",
+    "slot": "早间",
+    "count": 55,
+    "online": false
+  },
+  {
+    "id": "c118",
+    "entrance": "e2",
+    "day": "2026-10-14",
+    "slot": "晚间",
+    "count": 56,
+    "online": true
+  },
+  {
+    "id": "c119",
+    "entrance": "e3",
+    "day": "2026-10-14",
+    "slot": "早间",
+    "count": 40,
+    "online": true
+  }
+]
